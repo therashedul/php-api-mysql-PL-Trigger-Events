@@ -1,14 +1,4 @@
-<?php
 
-
-$id=$_REQUEST['id'];
-//$query = "SELECT * from emp where id='".$id."'"; 
-$query = "call testapi.edit_emp('$id')"; 
-$result = mysqli_query($conn, $query) or die ( mysqli_error());
-$row = mysqli_fetch_assoc($result);
-// print_r($row);
-// exit;
-?>
 <div class="container" style="margin-top:30px">
   <div class="row">    
     <div class="col-sm-12">
@@ -41,4 +31,3 @@ $row = mysqli_fetch_assoc($result);
     </div> 
   </div>
 </div>
-<?php include('inc/footer.php'); ?>

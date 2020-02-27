@@ -1,0 +1,8 @@
+1. Extrac the file
+2. copy these folder and past your server derectory(testapi, apiresult )
+3. Create database and import table ( take testapi forder)
+4. Run apiresult (http://localhost/apiresult/view.php)
+
+[there have two defferent folder]
+
+Enjoy :)

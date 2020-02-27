@@ -1,0 +1,6 @@
+Here some API
+-------------
+http://localhost/testapi/emp/create.php
+http://localhost/testapi/emp/read.php
+http://localhost/testapi/emp/update.php
+http://localhost/testapi/emp/delete.php

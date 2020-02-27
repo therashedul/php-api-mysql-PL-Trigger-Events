@@ -1,6 +1,5 @@
 <?php
-include('config/db.php');
-include('inc/header.php');
+
 
 $id=$_REQUEST['id'];
 //$query = "SELECT * from emp where id='".$id."'"; 

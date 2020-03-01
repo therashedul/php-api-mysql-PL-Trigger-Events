@@ -3,6 +3,7 @@
 Author : Md Rashedul Karim
 Email: therashedul@gmail.com
 Phone: 01818401065
+web:webxpart.com/cv
 */
 include('config/db.php');
 include('inc/header.php');

@@ -7,8 +7,6 @@ $id=$_REQUEST['id'];
 $query = "call testapi.edit_emp('$id')"; 
 $result = mysqli_query($conn, $query) or die ( mysqli_error());
 $row = mysqli_fetch_assoc($result);
-// print_r($row);
-// exit;
 ?>
 <div class="container" style="margin-top:30px">
   <div class="row">    

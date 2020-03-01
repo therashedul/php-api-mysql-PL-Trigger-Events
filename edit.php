@@ -1,4 +1,8 @@
 <?php
+/**************************
+Author : Md Rashedul Karim
+Email: therashedul@gmail.com
+*/
 include('config/db.php');
 include('inc/header.php');
 

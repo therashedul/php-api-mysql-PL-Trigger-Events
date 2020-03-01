@@ -2,7 +2,7 @@
 /**************************
 Author : Md Rashedul Karim
 Email: therashedul@gmail.com
-Phone: 01818401065
+
 */
 include('config/db.php');
 include('inc/header.php');
